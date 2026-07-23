@@ -31,40 +31,4 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://jazzquintet.cz/de/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jazzquintet.cz/"/>
   </url>
-  <url>
-    <loc>https://jazzquintet.cz/vop.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jazzquintet.cz/gdpr.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jazzquintet.cz/en/vop.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jazzquintet.cz/en/gdpr.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jazzquintet.cz/de/vop.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jazzquintet.cz/de/gdpr.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
 </urlset>
